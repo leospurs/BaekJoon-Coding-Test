@@ -28,5 +28,6 @@ for i in range(n-7):
         result.append(draw1)
         result.append(draw2)
 
+
 print(min(result))
                     
